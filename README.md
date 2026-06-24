@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hi there 👋
 # Garnvwa Sasilka Samuel
 
 Cybersecurity graduate (B.Sc., Ave Maria University, Nigeria — July 2026) focused on applied ML for security and offensive security fundamentals. I build tools that detect threats and break things to understand how they fail.
