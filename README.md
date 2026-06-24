@@ -3,7 +3,7 @@
 
 Cybersecurity graduate (B.Sc., Ave Maria University, Nigeria — July 2026) focused on applied ML for security and offensive security fundamentals. I build tools that detect threats and break things to understand how they fail.
 
-LinkedIn: (https://www.linkedin.com/in/sasilka-garnvwa-0364b635b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+LinkedIn: LinkedIn: (https://www.linkedin.com/in/sasilka-garnvwa-0364b635b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 Email: garnvwasasilka@gmail.com
 Medium: https://medium.com/@garnvwasasilka
 
